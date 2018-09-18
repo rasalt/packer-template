@@ -4,7 +4,7 @@
       "type": "qemu",
       "name": "centos-7-x86_64-1804-image",
       "vm_name": "centos-7-x86_64-1804-image",
-      "output_directory": "",
+      "output_directory": "output",
       "accelerator": "kvm",
       "disk_size": 2048,
       "format": "qcow2",
